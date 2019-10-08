@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"Omar Hassan Abdi",
+    "occupation":"Future Junior React/React Native Developer",
+    "description":"I am a computer science student at Queen Mary University of London. .I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years ",
+    "image":"profilepic.jpg",
+    "bio":"I am an gamer at heart, with knack for coding. Once i finish my degree i wish to take time travelling while doing remote work. During my studies i wish to work as a junior react developer as i have completed courses on react , react native. ",
+    "contactmessage":"If you have any questions or wish to speak to me please feel free to leave your details below and i will be sure to reply.",
+    "email": "omarhassan2810@hotmail.com",
+    "phone": "07387177220",
+    "address":{
+      "street":"Romford Road",
+      "city":"London",
+      "state":"Stratford",
+      "zip": "E15"
+    },
+    "website": "http://webprojects.eecs.qmul.ac.uk/oha31/portfolio/",
+    "resumedownload":"https://drive.google.com/file/d/157Lkqwl4jCjyFI45w6u3ZREgXHIbcEVo/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/omar-hassan-abdi-545525180/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/ohassanx",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Queen Mary University of London",
+        "degree":"Computer Science",
+        "graduated":"Expected June 2021",
+        "description":"I am currently pursuing a undergraduate bachelor's degree in Computer Science. I have taken modules such as OOP, Procedural programming, Algorithms and Data Structures and have better understanding of these subjects and will be able to implement them within my future work. I am also apart of numerous clubs."
+      },
+      {
+        "school":"NewVIc Sixth Form College",
+        "degree":"Computer Science",
+        "graduated":"June 2018",
+        "description":"I began my computer science journey in college which gave me a strong advantage when i began university. Over the two years i made many projects and learnt langauges such as Java, Python, PHP, JavaScript, HTML and CSS."
+      }
+    ],
+    "work":[
+      {
+        "company":"CodeCamp",
+        "title":"Student Tutor ",
+        "years":"August 2019 - Present",
+        "description":"Working as a tutor towards young children aged 5-14 uears old, teaching them programming languages such as Scratch, JavaScript and Python"},
+      {
+        "company":"Primark",
+        "title":"Night Shift Retail Assistant ",
+        "years":"November 2017 - Present",
+        "description":"I have been balancing work and my studies since college and i am impressed with maintaing strong grades in college to enter a russell group university and achieving a first in my first year while working nightshifts and going to lectures right after working a shift. At work i make sure that the customer has a pleasant experience in store through visual merchandising and stock replenishment as this will lead to a higher customer satisfaction." 
+      },
+      {
+        "company":"Brenade UK Limited",
+        "title":"IT technican intern",
+        "years":"Nov 1rd - Nov 16st 2018",
+        "description":"Managed calendars, office equipment, services and supplies. Updated and managed the customer database and mailing lists"}
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"React Native",
+        "level":"95%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Monsters For Hire",
+        "category":"Simple React Project",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://ohassanx.github.io/MonstersForHire/"
+      },
+      {
+        "title":"Portfolio/Blog",
+        "category":"Made using HTML, CSS, JavaScript, PHP, MySQL. This project includes my personal portfolio and a blog feature which requires you to log in to use.",
+        "image":"resume-website.jpg",
+        "url":"http://webprojects.eecs.qmul.ac.uk/oha31/portfolio/"
+      }
+      ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I would prersonally recommend Omar as a hardworking and dedicated person as he is the type to work towards getting things done without making excuses and achieving the peak while maintaining a balance between his work and social life ",
+        "user":"Towfique Kabir"
+      }
+    ]
+  }
+}
